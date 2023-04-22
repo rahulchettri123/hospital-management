@@ -1,0 +1,25 @@
+prescription_id,employee_id,patient_id,medicine_1,medicine_2,medicine_3,dosage1,dosage2,dosage3,time_to_take_1,time_to_take_2,time_to_take_3
+1,17001,2000,Atorvastatin,Avil,Trazodone,20 mg,5 mg,10 mg,once daily,once daily,once daily
+2,17002,2001,Levothyroxine,Furosemide,Bupropion,20 mg,30 mg,100 mcg,once daily,once daily,once daily
+3,17003,2002,Metformin,Avil,Azithromycin,40 mg,5 mg,500 mg,twice daily,once daily,twice daily
+4,17004,2003,Lisinopril,Metformin,Sertraline,10 mg,20 mg,5 mg,once daily,twice daily,twice daily
+5,17011,2004,Amlodipine,Gabapentin,Albuterol,30 mg,10 mg,5 mg,once daily,thrice daily,thrice daily
+6,17012,2005,Metoprolol,Escitalopram,Rosuvastatin,25 mg,50 mcg,100 mg,twice daily,twice daily,twice daily
+7,17014,2006,Acetaminophen,Amlodipine,Dextroamphetamine,500 mg,5 mg,10 mg,as needed,once daily,twice daily
+8,17021,2007,Advil,Atorvastatin,Escitalopram,200 mg,10 mg,10 mg,as needed,once daily,once daily
+9,17022,2008,Hydrochlorothiazide,Losartan,Pantoprazole,25 mg,50 mg,40 mg,once daily,once daily,once daily
+10,17023,2009,Simvastatin,Omeprazole,Gabapentin,20 mg,20 mg,300 mg,once daily,once daily,thrice daily
+11,17024,2010,Montelukast,Furosemide,Bupropion,10 mg,20 mg,150 mg,once daily,once daily,twice daily
+12,17031,2011,Metformin,Avil,Azithromycin,40 mg,5 mg,500 mg,twice daily,once daily,twice daily
+13,17032,2012,Lisinopril,Metformin,Sertraline,10 mg,20 mg,5 mg,once daily,twice daily,twice daily
+14,17033,2013,Amlodipine,Gabapentin,Albuterol,30 mg,10 mg,5 mg,once daily,thrice daily,thrice daily
+15,17034,2014,Metoprolol,Escitalopram,Rosuvastatin,25 mg,50 mcg,100 mg,twice daily,twice daily,twice daily
+16,17041,2015,Levothyroxine,Furosemide,Bupropion,20 mg,30 mg,100 mcg,once daily,once daily,once daily
+17,17042,2016,Atorvastatin,Avil,Trazodone,20 mg,5 mg,10 mg,once daily,once daily,once daily
+18,17043,2017,Lisinopril,Metoprolol,Trazodone,10 mg,50 mg,50 mg,once daily,twice daily,as needed
+19,17001,2018,Lisinopril,Avil,Trazodone,10 mg,50 mg,50 mg,once daily,twice daily,as needed
+20,17002,2019,Metformin,Losartan,Omeprazole,500 mg,25 mg,20 mg,twice daily,once daily,once daily
+21,17003,2020,Amlodipine,Gabapentin,Montelukast,5 mg,100 mg,10 mg,once daily,twice daily,once daily
+22,17054,2021,Hydrochlorothiazide,Sertraline,Dextroamphetamine,25 mg,50 mg,15 mg,once daily,once daily,twice daily
+23,17002,2022,Lisinopril,Metoprolol,Trazodone,10 mg,50 mg,50 mg,once daily,twice daily,as needed
+24,17018,2023,Levothyroxine,Rosuvastatin,Albuterol,100 mcg,10 mg,90 mcg,once daily,once daily,as needed

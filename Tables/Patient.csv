@@ -1,0 +1,25 @@
+patient_id,first_name,last_name,age,email,phone,address,surgery_done,assigned_room,no_of_nights,is_discharged,employee_id,check_in_time,appointment_end_time
+2000,Johnny,Ling,25,johnnylang@gmail.com,(234)347-8970,123 Main St Boston MA,Yes,General ward,3,Yes,17001,2023-01-20 10:26:12,2023-01-20 11:26:12
+2001,Simphon,Everest,64,simphon78@gmail.com,(617)346-9349,456 Oak St Virginia,No,Private ward,7,No,17002,2023-01-21 13:59:53,2023-01-21 14:29:53
+2002,Erik,Douglas,45,erik33@gmai.com,(857)546-4568,789 Park Ave Boston MA,Yes,Premium Deluxe,5,Yes,17003,2023-01-20 03:05:49,2023-01-20 03:35:49
+2003,Charles,Simon,34,simonc@yahoo.com,(857)469-0980,333 Pine St Boston MA,Yes,Private ward,9,Yes,17004,2023-01-20 08:46:08,2023-01-20 09:16:08
+2004,James,Mitchel,22,jamesmitchell@gmail.com,(857)846-0987,812 Willow St Virginia,No,Premium Deluxe,2,No,17011,2023-01-21 04:15:39,2023-01-21 04:45:39
+2005,Ye,Lee,32,yelee@yahoo.com,(617)235-6748,1234 Birch S Boston MA,Yes,General ward,10,Yes,17012,2023-01-20 10:14:53,2023-01-20 10:44:53
+2006,Ji,Chang,25,changji@gmail.com,(754)947-9370,1501 Maple St Virginia,No,Private ward,8,No,17014,2023-01-21 11:49:44,2023-01-21 12:19:44
+2007,Jace,Green,57,greenjace@yahoo.com,(857)548-0490,1701 Cedar St Boston MA,Yes,Premium Deluxe,6,Yes,17021,2023-01-21 05:52:15,2023-01-21 06:22:15
+2008,Robert,Patricks,34,robert34@gmail.com,(723)947-9947,1950 Oak St Virginia,No,General ward,1,No,17022,2023-01-20 09:17:11,2023-01-20 09:47:11
+2009,Alice,Johnson,42,alice.johnson@gmail.com,(617)123-4567,1001 Apple St Boston MA,Yes,Private ward,2,Yes,17023,2023-01-21 11:21:22,2023-01-21 11:51:22
+2010,Michael,Smith,30,michael.smith@gmail.com,(617)234-5678,1002 Banana St Virginia,No,General ward,3,No,17024,2023-01-21 07:54:39,2023-01-21 08:24:39
+2011,Olivia,Williams,29,olivia.williams@gmail.com,(617)345-6789,1003 Cherry St Boston MA,Yes,Premium Deluxe,4,Yes,17031,2023-01-20 02:06:48,2023-01-20 02:56:48
+2012,Daniel,Brown,65,daniel.brown@gmail.com,(617)456-7890,1004 Date St Virginia,No,Private ward,5,No,17032,2023-01-20 01:23:13,2023-01-20 02:13:13
+2013,Sophia,Jones,40,sophia.jones@gmail.com,(617)567-8901,1005 Elderberry St Boston MA,Yes,General ward,6,Yes,17033,2023-01-21 09:22:03,2023-01-21 09:52:03
+2014,David,Garcia,36,david.garcia@gmail.com,(617)678-9012,1006 Fig St Virginia,No,Premium Deluxe,7,No,17034,2023-01-21 01:32:08,2023-01-21 02:02:08
+2015,Emily,Rodriguez,50,emily.rodriguez@gmail.com,(617)789-0123,1007 Grape St Boston MA,Yes,Private ward,8,Yes,17041,2023-01-20 04:33:17,2023-01-20 05:03:17
+2016,Joseph,Martinez,58,joseph.martinez@gmail.com,(617)890-1234,1008 Hazelnut St Virginia,No,General ward,9,No,17042,2023-01-20 06:41:05,2023-01-20 07:11:05
+2017,Ella,Hernandez,27,ella.hernandez@gmail.com,(617)901-2345,1009 Ivy St Boston MA,Yes,Premium Deluxe,10,Yes,17043,2023-01-21 02:58:12,2023-01-21 03:28:12
+2018,Anthony,Moore,33,anthony.moore@gmail.com,(617)012-3456,1010 Jasmine St Virginia,No,Private ward,1,No,17001,2023-01-21 10:42:20,2023-01-21 11:12:20
+2019,Victoria,Jackson,47,victoria.jackson@gmail.com,(617)098-7654,1011 Kiwi St Boston MA,Yes,General ward,2,Yes,17002,2023-01-20 05:47:29,2023-01-20 06:17:29
+2020,Andrew,Taylor,63,andrew.taylor@gmail.com,(617)987-6543,1012 Lemon St Virginia,No,Premium Deluxe,3,No,17003,2023-01-20 05:47:29,2023-01-20 06:17:29
+2021,Mia,Lee,38,mia.lee@gmail.com,(617)876-5432,1013 Mango St Boston MA,Yes,Private ward,4,Yes,17054,2023-01-20 05:47:29,2023-01-21 06:17:29
+2022,William,Baker,52,william.baker@gmail.com,(617)765-4321,1014 Nectarine St Virginia,No,General ward,5,No,17002,2023-01-21 03:12:18,2023-01-21 03:42:18
+2023,Samantha,Garcia,23,samantha.garcia@gmail.com,(617)654-3210,1015 Orange St Boston MA,Yes,Premium Deluxe,6,Yes,17018,2023-01-20 12:47:11,2023-01-20 13:17:11

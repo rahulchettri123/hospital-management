@@ -1,0 +1,6 @@
+insurance_id,provider,plan_type,coverage,expiry_date,patient_id
+60001,"Health Plus",Silver,5000.00,2024-12-31,2001
+60002,MediCare,Gold,7500.00,2024-12-31,2005
+60003,Wellness,Platinum,10000.00,2024-12-31,2002
+60004,HealFast,Silver,5000.00,2024-12-31,2001
+60005,SecureHealth,Gold,7500.00,2024-12-31,2009
